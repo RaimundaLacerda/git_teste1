@@ -3,3 +3,5 @@ Testando Conexão
 =======
 Testando conexão no Git Hub
 >>>>>>> teste01
+
+Muitos alunos faltaram hoje
