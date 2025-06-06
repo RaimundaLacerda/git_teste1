@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Testando Conexão
+=======
+Testando conexão no Git Hub
+>>>>>>> teste01
