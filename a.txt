@@ -5,3 +5,5 @@ Testando conexão no Git Hub
 >>>>>>> teste01
 
 Muitos alunos faltaram hoje
+
+Testando conexão no Git 09/06/2025
